@@ -1,5 +1,7 @@
 ### Hello, how are you? My name is Lucas Zamora! 👋
 
+I am a passionate front-end developer dedicated to creating amazing digital experiences. I hold a degree in Systems Analysis and Development from Rubens Lara College of Technology (FATEC), where I acquired solid skills in programming, software design, and web development.
+
 #
 
 ### Status 📊
