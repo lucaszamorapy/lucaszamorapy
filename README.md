@@ -18,9 +18,8 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
 <div style="display: inline_block"><br>
 
 
-  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,python,figma,mysql,cplusplus" />
+
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
