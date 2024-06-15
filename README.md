@@ -18,7 +18,15 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
 <div style="display: inline_block"><br>
   <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,python,figma,mysql,c" />
 </div>
-  ##
+
+##
+
+### Learning 📝
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=vue,nodejs,java" />
+</div>
+
+#
 
 ### Contact me 😎
 <div> 
@@ -28,10 +36,6 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
   
 </div>
 
-##
 
-### Learning 📝
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=vue,node,java" />
-</div>
+
 
