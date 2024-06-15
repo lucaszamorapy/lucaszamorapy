@@ -18,7 +18,7 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
 <div style="display: inline_block"><br>
 
 
-  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,python,figma,mysql,c++" />
+  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,php,python,figma,mysql,c" />
 
 
   <img align="center" alt="C+" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
