@@ -23,8 +23,7 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
 
 ### Learning 📝
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=
-    cs, docker" />
+  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=cs,docker" />
 </div>
 
 #
