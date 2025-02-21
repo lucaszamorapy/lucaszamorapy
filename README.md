@@ -16,7 +16,7 @@ I am a passionate front-end developer dedicated to creating amazing digital expe
 
 ### Technologies 🧑‍💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,vue,vuetify,nodejs,express,tailwind,bootstrap,figma,mysql,js,ts,html,css,php,python,c" />
+  <img align="center" alt="TypeScript"  src="https://skillicons.dev/icons?i=react,nextjs,vue,vuetify,nodejs,express,tailwind,bootstrap,figma,mysql,js,ts,html,css,php,python,c" />
 </div>
 
 ##
